@@ -1,2 +1,1 @@
-# Corona-Website
-coronavirus website
+# COVID-19-Website
